@@ -3,3 +3,4 @@ print("Hello to everybody")
 print("как все надоело");
 print("yeter artik ya!")
 print("Hello my dear friend!")
+print("Glad to see you)
