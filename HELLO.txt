@@ -1,4 +1,4 @@
-print("Hello")
-print("Hello to everybody")
-print("как все надоело");
-print("yeter artik ya!")
+print("Hello;")
+print("Hello to everybody;")
+print("enough;");
+print("yeter artik ya!;")
